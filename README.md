@@ -86,10 +86,15 @@ When they mix, all three suffer — the spec gets narrative-heavy, the lesson lo
 
 ---
 
-## Examples
+## Projects
 
-The [`examples/`](examples/) directory contains real process log entries from different projects to illustrate the pattern in practice.
+Each directory is a real project with its own process log history.
+
+| Project | What it is |
+|---------|-----------|
+| [thinking-tool/](thinking-tool/) | Exploring a tool that guides how to think — from seed observation through scientific grounding to design implications. The process of exploring the idea is itself a demonstration of what the tool would do. |
 
 ---
 
 *Started: February 2026*
+*Context: [Outcode Thinking](https://outcodethinking.com) — rethinking what it means to be a developer*
